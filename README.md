@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sagar 👋
 
-<!--
-**sagar4126/sagar4126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Data Analysis Student
+- 🐍 Learning Python
+- 📊 Working with SQL & Tableau
+- 🚀 Interested in Business & Technology
 
-Here are some ideas to get you started:
+## Projects
+- 🏧 ATM Management System
+- ❓ Quiz Game in Python
+- 📱 QR Code Generator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python | SQL | Tableau | Excel | GitHub
+
+## Connect With Me
+📧 keorak06@gmail.com
